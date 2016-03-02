@@ -1,0 +1,5 @@
+app:
+  build: .
+  volumes:
+    - ./:/go/src/app
+

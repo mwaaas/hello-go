@@ -1,0 +1,1 @@
+# This is just a docker container to run hello word code in go
